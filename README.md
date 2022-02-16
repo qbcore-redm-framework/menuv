@@ -1,3 +1,11 @@
+# Disclaimer
+This is just a quick and dirty way to make MenuV work on RedM. This is by no means a professional alternative.
+Take an example from [qbr-adminmenu](https://github.com/qbcore-redm-framework/qbr-adminmenu) how to work with this or the menuv_example.
+
+## To-Do
+- Make sound notifications work again
+- ...
+
 # MenuV | Standalone Menu for FiveM | NUI Menu
 [![N|CoreV](https://i.imgur.com/iq1llQG.jpg)](https://github.com/ThymonA/menuv)
 
