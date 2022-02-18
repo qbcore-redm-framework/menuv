@@ -25,6 +25,7 @@ files {
     'dist/*.html',
     'dist/assets/css/*.css',
     'dist/assets/js/*.js',
+    'dist/assets/img/*.png',
     'dist/assets/fonts/*.woff',
     'languages/*.json'
 }
